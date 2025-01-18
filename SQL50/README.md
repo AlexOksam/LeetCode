@@ -8,11 +8,11 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                               | Level | Status |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
-| 1757 | [Recyclable and Low Fat Products]| Easy  | Solved |
-| 584  | [Find Customer Referee]                    | Easy  | Solved |
-| 595  | [Big Countries]                                     | Easy  | Solved |
-| 1148 | [Article Views]                                  | Easy  | Solved |
-| 1683 | [Invalid Tweets]                                | Easy  | Solved |
+| 1757 | [Recyclable and Low Fat Products]| Easy  | - |
+| 584  | [Find Customer Referee]                    | Easy  | - |
+| 595  | [Big Countries]                                     | Easy  | - |
+| 1148 | [Article Views]                                  | Easy  | - |
+| 1683 | [Invalid Tweets]                                | Easy  | - |
 
 ### Basic Joins
 
@@ -83,8 +83,8 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | 1667 | Fix Names in a Table                                                                                             | Easy   | -      |
 | 1527 | Patients with a Condition                                                                                        | Easy   | -      |
-| 196  | [Delete Duplicate Emails]           | Easy   | Solved |
-| 176  | [Second Highest Salary]                 | Medium | Solved |
+| 196  | [Delete Duplicate Emails]           | Easy   | - |
+| 176  | [Second Highest Salary]                 | Medium | - |
 | 1484 | Group Sold Products By The Date                                                                                  | Easy   | -      |
 | 1327 | List the Products Ordered in a Period                                                                            | Easy   | -      |
-| 1517 | [Find Users With Valid E-mails] | Easy   | Solved |
+| 1517 | [Find Users With Valid E-mails] | Easy   | - |

@@ -2,8 +2,6 @@
 
 Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) syntax.
 
-## Table of Contents
-
 ### Select
 
 | #    | Problem                                                                               | Level | Status |

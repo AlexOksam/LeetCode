@@ -57,11 +57,11 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                                                                                              | Level  | Status |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 1731 | [The Number of Employees Which Report to Each Employee]                         | Easy   | Solved |
-| 1789 | [Primary Department for Each Employee]                                   | Easy   | Solved |
-| 610  | [Triangle Judgement]                                                                   | Easy   | Solved |
-| 180  | [Consecutive Numbers]                                                             | Medium | Solved |
-| 1164 | [Product Price at a Given Date]                                              | Medium | Solved |
+| 1731 | [The Number of Employees Which Report to Each Employee]                         | Easy   | - |
+| 1789 | [Primary Department for Each Employee]                                   | Easy   | - |
+| 610  | [Triangle Judgement]                                                                   | Easy   | - |
+| 180  | [Consecutive Numbers]                                                             | Medium | - |
+| 1164 | [Product Price at a Given Date]                                              | Medium | - |
 | 1204 | Last Person to Fit in the Bus                                                                                                                        | Medium | -      |
 | 1907 | Count Salary Categories                                                                                                                              | Medium | -      |
 

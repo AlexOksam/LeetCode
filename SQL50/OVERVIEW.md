@@ -85,4 +85,4 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | 176  | [Second Highest Salary]                 | Medium | - |
 | 1484 | Group Sold Products By The Date                                                                                  | Easy   | -      |
 | 1327 | List the Products Ordered in a Period                                                                            | Easy   | -      |
-| 1517 | [Find Users With Valid E-mails] | Easy   | - |
+| 1517 | [[Find Users With Valid E-mails]](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1517_Find_Users_With_Valid_E-Mails.sql) | Easy   | SOLVED |

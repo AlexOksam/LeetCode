@@ -11,19 +11,19 @@ Here are my solutions for the 50 problems using C# syntax.
 | 28  | [Find the Index of the First Occurrence in a String]                                   | Easy  | - |
 | 242 | [Valid Anagram]                                 | Easy  | - |
 | 459 | [Repeated Substring Pattern]                                | Easy  | - |
-| 283 | [Move Zeroes]                               | Easy  | SOLVED |
+| 283 | [Move Zeroes](https://github.com/AlexOksam/LeetCode/blob/main/Programming_Skills/283_Move_Zeroes.cs)                               | Easy  | SOLVED |
 | 66 | [Plus One]                               | Easy  | - |
 | 1822 | [Sign of the Product of an Array]                               | Easy  | - |
 | 1502 | [Can Make Arithmetic Progression From Sequence]                               | Easy  | - |
 | 896 | [Monotonic Array]                               | Easy  | - |
-| 13 | [Roman to Integer]                               | Easy  | SOLVED |
+| 13 | [Roman to Integer](https://github.com/AlexOksam/LeetCode/blob/main/Programming_Skills/13_Roman_to_Integer.cs)                               | Easy  | SOLVED |
 
 ### Built-In Functions
 
 | #    | Problem                                                                                                                                  | Level  | Status |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | 58 | [Length of Last Wor]               | Easy   | - |
-| 709 | [To Lower Case]                                                          | Easy   | SOLVED |
+| 709 | [To Lower Case](https://github.com/AlexOksam/LeetCode/blob/main/Programming_Skills/709_To_Lower_Case.cs)                                                          | Easy   | SOLVED |
 
 ### Simulation
 

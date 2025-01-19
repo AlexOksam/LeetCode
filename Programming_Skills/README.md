@@ -34,4 +34,4 @@ Here are my solutions for the 50 problems using C# syntax.
 | 1275 | [Find Winner on a Tic Tac Toe Game]                                      | Easy   | - |
 | 1041 | [Robot Bounded In Circle] | Medium   | - |
 
-### Sorting and Grouping
+### Matrix

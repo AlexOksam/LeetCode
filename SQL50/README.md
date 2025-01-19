@@ -6,10 +6,10 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                               | Level | Status |
 | ---- | ------------------------------------------------------------------------------------- | ----- | ------ |
-| 1757 | [[Recyclable and Low Fat Products](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1757_Recyclable_and_Low_Fat_Products.sql)]| Easy  | SOLVED |
-| 584  | [[Find Customer Referee](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/584_Find_Customer_Referee.sql)]                    | Easy  | SOLVED |
-| 595  | [Big Countries](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/595_Big_Countries.sql)]                                     | Easy  | SOLVED |
-| 1148 | [Article Views(https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1148_Article_Views_I.sql)]                                 | Easy  | SOLVED |
+| 1757 | [Recyclable and Low Fat Products](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1757_Recyclable_and_Low_Fat_Products.sql)| Easy  | SOLVED |
+| 584  | [Find Customer Referee](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/584_Find_Customer_Referee.sql)                    | Easy  | SOLVED |
+| 595  | [Big Countries](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/595_Big_Countries.sql)                                     | Easy  | SOLVED |
+| 1148 | [Article Views](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1148_Article_Views_I.sql)                                 | Easy  | SOLVED |
 | 1683 | [Invalid Tweets]                                | Easy  | - |
 
 ### Basic Joins
@@ -85,4 +85,4 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | 176  | [Second Highest Salary]                 | Medium | - |
 | 1484 | Group Sold Products By The Date                                                                                  | Easy   | -      |
 | 1327 | List the Products Ordered in a Period                                                                            | Easy   | -      |
-| 1517 | [[Find Users With Valid E-mails]](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1517_Find_Users_With_Valid_E-Mails.sql) | Easy   | SOLVED |
+| 1517 | [Find Users With Valid E-mails](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1517_Find_Users_With_Valid_E-Mails.sql) | Easy   | SOLVED |

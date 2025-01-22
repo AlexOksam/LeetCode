@@ -20,7 +20,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 | 1068 | [Product Sales Analysis I](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1068_Product_Sales_Analysis_I.sql)                                                          | Easy   | SOLVED |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy   | SOLVED |
 | 197  | [Rising Temperature](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/197_Rising_Temperature.sql)                                                                          | Easy   | SOLVED |
-| 1661 | [Average Time of Process per Machine]                                      | Easy   | - |
+| 1661 | [Average Time of Process per Machine](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1661_Average_Time_of_Process_per_Machine.sql)                                      | Easy   | SOLVED |
 | 577  | [Employee Bonus]                                                                                 | Easy   | - |
 | 1280 | [Students and Examinations]                                                           | Easy   | - |
 | 570  | [Managers with at Least 5 Direct Reports]                              | Medium | - |

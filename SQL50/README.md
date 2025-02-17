@@ -30,8 +30,8 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                                                                | Level  | Status |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 620  | [Not Boring Movies](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/620_Not_Boring_Movies.sql)                                         | Easy   | SOLVED |
-| 1251 | [Average Selling Price]                                  | Easy   | - |
+| 620  | [Not Boring Movies](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/620_Not_Boring_Movies.sql)                   | Easy   | SOLVED |
+| 1251 | [Average Selling Price](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/1251_Average_Selling_Price.sql)          | Easy   | SOLVED |
 | 1075 | [Project Employees I]                                      | Easy   | - |
 | 1633 | [Percentage of Users Attended a Contest] | Easy   | - |
 | 1211 | [Queries Quality and Percentage]               | Easy   | - |

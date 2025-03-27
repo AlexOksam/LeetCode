@@ -43,7 +43,7 @@ Here are my solutions for the Top SQL 50 problems using T-SQL (MS SQL Server) sy
 
 | #    | Problem                                                                                                                               | Level  | Status |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher] | Easy   | - |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://github.com/AlexOksam/LeetCode/blob/main/SQL50/2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) | Easy   | SOLVED |
 | 1141 | [User Activity for the Past 30 Days I]                        | Easy   | - |
 | 1070 | [Product Sales Analysis III]                                             | Medium | - |
 | 596  | [Classes More Than 5 Students]                                       | Easy   | - |
